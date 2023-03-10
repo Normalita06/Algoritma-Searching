@@ -1,0 +1,1 @@
+Linear search adalah algoritma pencarian nilai pada sebuah array/list dengan melibatkan pemeriksaan nilai elemen satu demi satu dari ujung list yang bekerja untuk mencari data-data yang sudah tersedia dengan menampilkan index data.
